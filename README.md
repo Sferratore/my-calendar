@@ -129,9 +129,3 @@ MyCalendar/
 - **ViewModels** — dedicated models for form binding, decoupled from database entities
 - **Partial views & Tag Helpers** — reusable Razor components and clean form markup
 - **Server-side validation** — `ModelState` checks with user-facing error feedback
-
----
-
-## License
-
-This project is intended for educational purposes.
